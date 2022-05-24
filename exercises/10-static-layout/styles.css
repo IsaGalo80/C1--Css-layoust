@@ -1,8 +1,41 @@
-/* your code here */
-
+.wrapper {
+	display: flexbox;
+}
+/* .contenedor {
+	  display: inline-block;
+  } */
+header {
+	border: 20px solid white;
+	padding: 50px;
+	margin-left: 310px;
+	margin-right: 310px;
+	margin-bottom: 30px;
+}
+nav {
+	border: 20px solid white;
+	/* padding: 50px; */
+	display: inline-block;
+	/* display: flexbox; */
+	/* margin-left: 50px;
+	  margin-right: 5px; */
+	margin-top: 30px;
+	width: 480px;
+	height: 500px;
+}
+section {
+	border: 20px solid white;
+	/* padding: 50px; */
+	display: inline-block;
+	/* display: flexbox; */
+	/* margin-left: 5px;
+	  margin-right: 50px; */
+	margin-top: 30px;
+	width: 1450px;
+	height: 500px;
+}
 /**************************************
-DON'T CHANGE ANYTHING AFTER THIS LINE
-**************************************/
+  DON'T CHANGE ANYTHING AFTER THIS LINE
+  **************************************/
 
 *,
 *:before,

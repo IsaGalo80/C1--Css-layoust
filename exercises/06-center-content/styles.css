@@ -1,1 +1,10 @@
-body{background:blue;}
+body {
+	background: blue;
+}
+#grancaja {
+	background-color: gray;
+	width: 400px;
+	margin: 0 auto;
+	/* top: 50%;
+	left: 50%; */
+}
